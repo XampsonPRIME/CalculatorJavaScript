@@ -1,3 +1,3 @@
-# CalculatorJavascript
+# CalculatorJavaScript
 
-Meu primeiro projeto com o Javascript, criei uma calculadora junto com o time da DIO.me 💻.
+Meu primeiro projeto com o JavaScript, criei uma calculadora junto com o time da DIO.me 💻.
